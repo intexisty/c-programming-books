@@ -11,6 +11,6 @@ int main() {
 
     printf("now b is %d, and a is %d.\n", ++b, a--);
     printf("now b is %d, and a is %d.\n", b, a);
-    
+
     return 0;
 }
